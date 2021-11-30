@@ -1,2 +1,2 @@
 PROJECTF README
-append with network commands
+append with network commands ok
